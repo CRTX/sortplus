@@ -11,7 +11,7 @@ Example:
 
 #This command gives you a preview of how the files will be organized
 
-``./sortplus -t /home/user/Desktop `
+`./sortplus -t /home/user/Desktop`
 
 ```
 avi/
