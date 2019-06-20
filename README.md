@@ -5,7 +5,7 @@ It also takes in mind duplicates and renames them by adding a number to duplicat
 No external dependencies needed, just run the make command
 `make`
 
-Usage: sortplus [-h help menu] [-t dry test run] [-o organize files] [directory]
+`Usage: sortplus [-h help menu] [-t dry test run] [-o organize files] [directory]`
 
 Example: ./sortplus -t /home/user/Desktop #This command gives you a preview of how the files will be organized
 
