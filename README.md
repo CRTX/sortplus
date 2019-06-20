@@ -7,7 +7,7 @@ No external dependencies needed, just run the make command
 
 `Usage: sortplus [-h help menu] [-t dry test run] [-o organize files] [directory]`
 
-Example: ./sortplus -t /home/user/Desktop #This command gives you a preview of how the files will be organized
+Example: `./sortplus -t /home/user/Desktop #This command gives you a preview of how the files will be organized`
 
 ```
 avi/
