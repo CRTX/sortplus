@@ -9,7 +9,9 @@ Sorter::Sorter(std::string newDirectory)
     }
     std::map<std::string, std::map<std::string, std::string>>::iterator empty;
     empty = extensionList.find("");
-    extensionList.erase(empty);
+    if(empty != extensionList.end()) {
+        extensionList.erase(empty);
+    }
     renameDuplicates();
 }
 
